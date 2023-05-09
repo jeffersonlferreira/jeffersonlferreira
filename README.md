@@ -2,9 +2,6 @@
 <div align="center">
   <a href="https://github.com/jeffersonlferreira">
   <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonlferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img width="42%" height="180em" src="https://github-readme-stats.vercel.app/api?username=jeffersonlferreira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    
-   
   <img width="50%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeffersonlferreira&show_icons=true&theme=radical"/>
 </div>
   
